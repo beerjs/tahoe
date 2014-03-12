@@ -9,7 +9,7 @@ We meet on the 3rd Tuesday of the month at The Lift co-working space in Truckee,
 Want to join?
 -------------
 
-Click the <img src="http://beerjs.github.io/tahoe/assets/watch.png" height="18"> button on this repo (star us too!) to get notified of upcoming meeting dates or date and location changes.
+Click the <img src="http://beerjs.github.io/sf/assets/watch.png" height="18"> button on this repo (star us too!) to get notified of upcoming meeting dates or date and location changes.
 
 
 Want to help?
