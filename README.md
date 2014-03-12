@@ -11,7 +11,7 @@ Want to hang out?
 
 We meet on the 3rd Tuesday of the month at <a target="_blank" href="https://www.google.com/maps/search/12242+Business+Park+Dr,+Truckee,+CA+96161/@39.316106,-120.148205,17z/data=!3m1!4b1">The Lift Co-Working</a> space in Truckee, CA. It's on the second floor of the Airport Office Centre on the left. Huge thanks to The Lift for giving us a home in the community.
 
-Click the watch button on this repo to get notified of upcoming meeting dates or date and location changes.  Don't forget to star BeerJS Tahoe too.
+Click the watch button for this repo to get notified of upcoming meeting dates or date and location changes.  Don't forget to star BeerJS Tahoe too.
 
 
 Want to share something?
