@@ -31,4 +31,4 @@ Of course you do.  Those with beer will be given priority seating ;)
 Organizer
 -------
 
-* Jordan Papaleo ([Github](https://github.com/breck421) / [Twitter](https://twitter.com/jordanpapaleo))
+* Jordan Papaleo ([Github](https://github.com/breck421) / [Stack Overflow](http://stackoverflow.com/users/2483859/breck421))
