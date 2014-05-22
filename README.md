@@ -30,6 +30,13 @@ Want to bring beer?
 Of course you do.  Those with beer will be given priority seating ;)
 
 
+The Community
+-------------
+I just started a G+ community for us: TahoeJS. I figured we need a place to be social... whatever that means.  I think we can post questions and discussions on TahoeJS to share it with our community.  By the way, did you hear about the out going developer?  He looks at others people's shoes when he talks to them ;)
+
+https://plus.google.com/u/1/communities/117568493604320413295
+
+
 Organizer
 -------
 
