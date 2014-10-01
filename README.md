@@ -9,7 +9,7 @@ We are now also an official <a href="http://famo.us">Famo.us</a> meetup.  Famo.u
 
 
 Want to hang out?
--------------
+-----------------
 
 We meet on the 3rd Wednesday of the month at <a target="_blank" href="https://www.google.com/maps/search/12242+Business+Park+Dr,+Truckee,+CA+96161/@39.316106,-120.148205,17z/data=!3m1!4b1">The Lift Co-Working</a> space in Truckee, CA. It's on the second floor of the Airport Office Centre on the left. Huge thanks to The Lift for giving us a home in the community.
 
@@ -19,7 +19,7 @@ Click the watch button for this repo to get notified of upcoming meeting dates o
 
 
 Want to share something?
--------------
+-----------------------
 
 You can show something you built, talk about something you would like to build, challenge "best" practices, or change the world; your call. Please let me know if you are interested so we don't double up.
 
@@ -27,7 +27,7 @@ Submit a Pull Request, file an Issue, or edit the Wiki.
 
 
 Want to bring beer?
--------------
+------------------
 
 Of course you do.  Those with beer will be given priority seating ;)
 
@@ -41,7 +41,8 @@ By the way, did you hear about the out going developer?  He looks at others peop
 https://plus.google.com/u/1/communities/117568493604320413295
 
 
-Organizer
--------
+Organizers
+----------
 
-* Jordan Papaleo ([Github](https://github.com/breck421) / [Stack Overflow](http://stackoverflow.com/users/2483859/breck421))
+* <a href="mailto:papaleowebdev@gmail.com">Jordan Papaleo</a> ([Github](https://github.com/breck421) / [Stack Overflow](http://stackoverflow.com/users/2483859/breck421))
+* Garrett McCullough
