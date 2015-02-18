@@ -11,7 +11,7 @@ We are now also an official <a href="http://famo.us">Famo.us</a> meetup.  Famo.u
 Want to hang out?
 -----------------
 
-We usually meet on the 3rd Wednesday of the month at <a target="_blank" href="https://www.google.com/maps/search/12242+Business+Park+Dr,+Truckee,+CA+96161/@39.316106,-120.148205,17z/data=!3m1!4b1">The Lift Co-Working</a> space in Truckee, CA. It's on the second floor of the Airport Office Centre on the left. Huge thanks to The Lift for giving us a home in the community.
+We usually meet on the 3rd Monday of the month at <a target="_blank" href="https://www.google.com/maps/search/12242+Business+Park+Dr,+Truckee,+CA+96161/@39.316106,-120.148205,17z/data=!3m1!4b1">The Lift Co-Working</a> space in Truckee, CA. It's on the second floor of the Airport Office Centre on the left. Huge thanks to The Lift for giving us a home in the community.
 
 And what is BeerJS without a beer sponsor?  Truckee is fortunate to be the home to <a href="http://fiftyfiftybrewing.com/" title="Fifty Fifty Brewing">Fifty Fifty Brewing</a> and now so is BeerJS Tahoe.  Fifty Fifty will be supplying our beer!  Be sure to stop by and support them (try the Eclipse Barrel Aged Imperial Stout).
 
@@ -48,5 +48,5 @@ https://plus.google.com/u/1/communities/117568493604320413295
 Organizers
 ----------
 
-* <a href="mailto:papaleowebdev@gmail.com">Jordan Papaleo</a> ([Github](https://github.com/breck421) / [Stack Overflow](http://stackoverflow.com/users/2483859/breck421))
+* <a href="mailto:papaleowebdev@gmail.com">Jordan Papaleo</a> ([Github](https://github.com/jordanpapaleo) / [Stack Overflow](http://stackoverflow.com/users/2483859/breck421))
 * Garrett McCullough
