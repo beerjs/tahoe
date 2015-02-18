@@ -49,4 +49,4 @@ Organizers
 ----------
 
 * <a href="mailto:papaleowebdev@gmail.com">Jordan Papaleo</a> ([Github](https://github.com/jordanpapaleo) / [Stack Overflow](http://stackoverflow.com/users/2483859/breck421))
-* Garrett McCullough
+* Garrett McCullough ([Github](https://github.com/gwmccull))
