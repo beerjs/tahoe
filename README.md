@@ -48,5 +48,5 @@ https://plus.google.com/u/1/communities/117568493604320413295
 Organizers
 ----------
 
-* <a href="mailto:papaleowebdev@gmail.com">Jordan Papaleo</a> ([Github](https://github.com/jordanpapaleo)
+* <a href="mailto:papaleowebdev@gmail.com">Jordan Papaleo</a> ([Github](https://github.com/jordanpapaleo))
 * Garrett McCullough ([Github](https://github.com/gwmccull))
