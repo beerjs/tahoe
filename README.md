@@ -3,7 +3,7 @@ BeerJS Tahoe
 
 BeerJS Tahoe is for devs to get together, throw a few back, and learn collectively about JavaScript. We value good beer and good code and encourage the sharing of both.
 
-Topics so far have been around AngularJS and the MEAN stack, but in reality the scope is pretty open. The meetup will usually follow a beer socialization/forum format. Anyone can present for any amount of time.
+Topics so far have been around JavaScript, but in reality the scope is pretty open. The meetup will usually follow a beer socialization/forum format. Anyone can present for any amount of time.
 
 We are now also an official <a href="http://famo.us">Famo.us</a> meetup.  Famo.us is the only JavaScript framework that includes an open source 3D layout engine fully integrated with a 3D physics animation engine that can render to DOM, Canvas, or WebGL.  Come on up and learn about this killer framework.
 
@@ -31,16 +31,15 @@ Comment on the current meetings issue to formally request time or a topic.
 Want to bring beer?
 ------------------
 
-Of course you do.  Those with beer will be given priority seating ;)
+Of course you do.  Those with beer will be given priority seating ;)  Drinking beer is not required to participate though.
 
 
 The Community
 -------------
-I just started a G+ community for us: TahoeJS. I figured we need a place to be social... whatever that means.  I think we can post questions and discussions on TahoeJS to share it with our community.  
+
+We have a G+ community: TahoeJS. I figured we need a place to be social... whatever that means.  I think we can post relevant cool content, questions, and start discussions.  
 
 I also created a organization in github for us named TahoeJS.  Hopefully this can serve a a place for us to put code from our presentations.  Please let me know if you want to be apart of it and I will add you.
-
-By the way, did you hear about the outgoing web developer?  He looks at others people's shoes when he talks to them ;)
 
 https://plus.google.com/u/1/communities/117568493604320413295
 
