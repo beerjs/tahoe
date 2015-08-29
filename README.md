@@ -5,8 +5,6 @@ BeerJS Tahoe is for devs to get together, throw a few back, and learn collective
 
 Topics so far have been around JavaScript, but in reality the scope is pretty open. We start the metup by just hanging out and chatting then we will get into presentations. Anyone can present for any amount of time.
 
-We are now also an official <a href="http://famo.us">Famo.us</a> meetup.  Famo.us is the only JavaScript framework that includes an open source 3D layout engine fully integrated with a 3D physics animation engine that can render to DOM, Canvas, or WebGL.  Come on up and learn about this killer framework.
-
 
 Want to hang out?
 -----------------
