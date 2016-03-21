@@ -35,11 +35,12 @@ Of course you do.  Those with beer will be given priority seating ;)  Drinking b
 The Community
 -------------
 
-We have a G+ community: TahoeJS. I figured we need a place to be social... whatever that means.  I think we can post relevant cool content, questions, and start discussions.  
+Community is the reason why we do what we do.  We highly value growing together and here are some places where you can do just that.  We can share relevant and cool content, questions, and start discussions... you get the idea.
 
-I also created a organization in github for us named TahoeJS.  Hopefully this can serve a a place for us to put code from our presentations.  Please let me know if you want to be apart of it and I will add you.
-
-https://plus.google.com/u/1/communities/117568493604320413295
+[BeerJS Slack](https://beerjs.slack.com/messages/tahoe/)<br />
+[Facebook Group](https://www.facebook.com/groups/tahoejs/)<br />
+[Google Communtiy](https://plus.google.com/u/1/communities/117568493604320413295)<br />
+[Website](http://www.tahoejs.com)
 
 
 Organizers
