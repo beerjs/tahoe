@@ -1,0 +1,15 @@
+{
+  "extends": ["standard"],
+  "env": {
+    "es6": true,
+    "node": true
+  },
+  "parserOptions": {
+    "ecmaVersion": 6,
+    "ecmaFeatures": {},
+    "sourceType": "module"
+  },
+  "rules": {
+    "spaced-comment": 0
+  }
+}
