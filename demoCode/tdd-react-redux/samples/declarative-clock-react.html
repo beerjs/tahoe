@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="description" content="Imperative Clock vs. Declarative Clock">
+    <script src="https://fb.me/react-with-addons-0.14.7.min.js"></script>
+    <script src="https://fb.me/react-dom-0.14.7.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-core/5.8.23/browser.js"></script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="minimum-scale=1.0, width=device-width, maximum-scale=1.0, user-scalable=no" />
+    <style>
+        body, html {
+            height: 100%;
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: "Keania One", verdana;
+            background-color: black;
+            color: #008209;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        div.clock {
+            width: 339px;
+            border: solid 1px;
+            height: 80px;
+            position: relative;
+
+            display: flex;
+            justify-content: space-around;
+            align-items: flex-end;
+        }
+
+        div.clock span {
+            font-size: 3em;
+        }
+
+        div.clock button {
+            position: absolute;
+            top: .2em;
+            right: .2em;
+            padding: .4em;
+            font-size: .8em;
+            line-height: .8em;
+            font-weight: bold;
+            color: #008209;
+            background-color: black;
+            border: solid 1px #008209;
+        }
+
+        div.clock button:hover {
+            background-color: #008209;
+            color: black;
+            border: none;
+            cursor: pointer;
+        }
+    </style>
+    <title>Declarative Clock with React</title>
+</head>
+<body>
+<div id="react-container"></div>
+<script src="declarative-clock-react.js" type="text/babel"></script>
+</body>
+</html>
