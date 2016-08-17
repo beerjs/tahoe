@@ -38,6 +38,7 @@ The Community
 Community is the reason why we do what we do.  We highly value growing together and here are some places where you can do just that.  We can share relevant and cool content, questions, and start discussions... you get the idea.
 
 [BeerJS Slack](https://beerjs.slack.com/messages/tahoe/)<br />
+[Join the BeerJS Slack Team](https://beerjs-slack-invite.herokuapp.com/)<br />
 [Facebook Group](https://www.facebook.com/groups/tahoejs/)<br />
 [Google Communtiy](https://plus.google.com/u/1/communities/117568493604320413295)<br />
 [Website](http://www.tahoejs.com)
