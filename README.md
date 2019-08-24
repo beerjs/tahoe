@@ -9,27 +9,21 @@ Topics so far have been around JavaScript, but in reality the scope is pretty op
 Want to hang out?
 -----------------
 
-We usually meet on the 3rd **TUESDAY** of the month at <a target="_blank" href="https://www.google.com/maps/search/12242+Business+Park+Dr,+Truckee,+CA+96161/@39.316106,-120.148205,17z/data=!3m1!4b1">The Lift Co-Working</a> space in Truckee, CA. It's on the second floor of the Airport Office Centre on the left. Huge thanks to The Lift for giving us a home in the community.
+We aim to meet on the 4th **THURSDAY** of each month but mileage may vary depending on the organizer's travel plans, whether Mercury is in retrograde, or if there's been amazing winter snowstorms. Meeting location varies, but tends to be at one of a few awesome local establishments in town (I'm looking at you Sidellis, the Hangar, SLBC, and the Coachman Hotel).
 
-And what is BeerJS without a beer sponsor?  Truckee is fortunate to be the home to <a href="http://fiftyfiftybrewing.com/" title="Fifty Fifty Brewing">Fifty Fifty Brewing</a> and now so is BeerJS Tahoe.  Fifty Fifty will be supplying our beer!  Be sure to stop by and support them (try the Eclipse Barrel Aged Imperial Stout).
+And what is BeerJS without a beer sponsor? Wait, what's that? We don't have one?! Oh no... If you want to sponsor this meetup please email Rob (link below) to get things squared away.
 
-Click the watch button for this repo to get notified of upcoming meeting dates or date and location changes.  Don't forget to star BeerJS Tahoe too.
+Click the watch button for this repo to get notified of upcoming meeting dates or date and location changes, follow the [Facebook group](https://www.facebook.com/beerjstahoe/), and/or [join the AirTable mailing list](https://airtable.com/shrTX2gM1XL8s6j5k) if you don't use the Bookface. Don't forget to star BeerJS Tahoe too!
 
 
 Want to share something?
 -----------------------
 
-You can show something you built, talk about something you would like to build, challenge "best" practices, or change the world; your call. Please let me know if you are interested so we don't double up.
+You can show something you built, talk about something you would like to build, challenge "best" practices, or change the world; your call. Also feel free to come with problems and questions about your code, my code, or whatever (it's your life, do you want!).
 
-Also feel free to come with problems and questions about your code, my code, or whatever.
+But really, we're always looking for speakers, and truly believe everyone has something interesting to contribute. Don't be shy.
 
-Comment on the current meetings issue to formally request time or a topic.
-
-
-Want to bring beer?
-------------------
-
-Of course you do.  Those with beer will be given priority seating ;)  Drinking beer is not required to participate though.
+Comment on the current meetings issue to formally request time or a topic or email me (hi) by using the link at the bottom of this page..
 
 
 The Community
@@ -39,13 +33,13 @@ Community is the reason why we do what we do.  We highly value growing together 
 
 [BeerJS Slack](https://beerjs.slack.com/messages/tahoe/)<br />
 [Join the BeerJS Slack Team](https://beerjs-slack-invite.herokuapp.com/)<br />
-[Facebook Group](https://www.facebook.com/groups/tahoejs/)<br />
-[Google Communtiy](https://plus.google.com/u/1/communities/117568493604320413295)<br />
-[Website](http://www.tahoejs.com)
-
+[Facebook Group](https://www.facebook.com/beerjstahoe/)<br />
+[AirTable Signup](https://airtable.com/shrTX2gM1XL8s6j5k)<br />
+[Website](http://www.tahoejs.com) - Currently out of date but soon to be updated.<br />
+[RenoJS](https://renojs.com)
 
 Organizers
 ----------
 
-* <a href="mailto:papaleowebdev@gmail.com">Jordan Papaleo</a> ([Github](https://github.com/jordanpapaleo))
-* Garrett McCullough ([Github](https://github.com/gwmccull))
+* <a href="mailto:rob@atomidesign.com">Rob(ot) Nealan</a> ([Github](https://github.com/robotnealan))
+
